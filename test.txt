@@ -1,0 +1,15 @@
+arch [عرض معمارية الجهاز 1]
+cal [عرض التقويم]
+cat/proch/cpuinfo [عرض معلومات المعالج]
+cat/proc/meminfo [تحقق من استخدام الذاكرة]
+date [عرض تاريخ النظام]
+cat/proce/version [عرض اصدار نواة النظام]
+groupdel[group] [حذف مجموعة]
+groupadd[group] [انشاء مجموعة جديدة]
+passwd [تغير كلمة المرور]
+cat/proc/swaps [عرض ملفات الswap]
+
+ 
+
+
+
